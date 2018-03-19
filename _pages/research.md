@@ -1,6 +1,7 @@
 ---
 title: "research"
 permalink: /research/
+authorprofile: true
 ---
 
 ## research
