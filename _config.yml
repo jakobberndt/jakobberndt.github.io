@@ -99,7 +99,7 @@ analytics:
 author:
   name             : "Jakob M. Berndt"
   avatar           : "/images/jakobberndt.jpg"
-  bio              : "PhD candidate in economics at the University of Cambridge"
+  bio              : "PhD candidate in economics at" <br> "the University of Cambridge"
   location         : "Cambridge, UK"
   email            : jb2088@cam.ac.uk
   uri              : 
