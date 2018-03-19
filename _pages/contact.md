@@ -1,6 +1,7 @@
 ---
 title: "contact"
 permalink: /contact/
+author_profile: true
 ---
 
 **Address** <br>
