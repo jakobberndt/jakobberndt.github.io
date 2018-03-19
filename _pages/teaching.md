@@ -1,7 +1,7 @@
 ---
-title:  "researcg"
+title:  "teaching"
 layout: default
-permalink: /research/
+permalink: /teaching/
 author_profile: true
 ---
 
