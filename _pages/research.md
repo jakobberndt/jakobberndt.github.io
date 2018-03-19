@@ -1,5 +1,5 @@
 ---
-title:  "researcg"
+title:  "research"
 layout: default
 permalink: /research/
 author_profile: true
