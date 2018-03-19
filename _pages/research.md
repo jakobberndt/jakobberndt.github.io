@@ -1,8 +1,12 @@
 ---
-title:  "research"
-layout:
-permalink: /research/
-author_profile: true
+defaults:
+  # _pages
+  - scope:
+      path: "/research/"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 ---
 
 ## research
