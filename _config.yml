@@ -256,13 +256,17 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+  #- scope:
+  #    path: ""
+  #    type: posts
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    read_time: true
+  #    comments: # true
+  #    share: true
+  #    related: true
+I am a PhD candidate in the department of economics at the University of Cambridge.
+
+My primary research interests lie in microeconomic ​theory, information economics, and networks. 
+I am interested in both pure theory and applied questions.
