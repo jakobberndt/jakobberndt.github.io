@@ -103,7 +103,7 @@ author:
   location         : "Cambridge, UK"
   email            : jb2088@cam.ac.uk
   uri              : 
-  home             : /home/
+  home             : /index/
   bitbucket        :
   codepen          :
   dribbble         :
@@ -193,7 +193,7 @@ sass:
 
 
 # Outputting
-permalink: /home/
+permalink: /index/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
