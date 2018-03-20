@@ -1,4 +1,5 @@
 ---
+title: 
 permalink: /teaching/
 classes: wide
 ---
