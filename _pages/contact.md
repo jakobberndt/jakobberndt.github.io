@@ -1,7 +1,6 @@
 ---
 title: contact
 permalink: /contact/
-classes: wide
 ---
 
 ## contact
