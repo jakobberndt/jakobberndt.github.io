@@ -6,10 +6,11 @@ permalink: /contact/
 ## contact
 
 **_address_** <br>
-Faculty of Economics <br>
 University of Cambridge <br>
+Faculty of Economics <br>
 Sidgwick Avenue <br>
 Cambridge CB3 9DD <br>
+United Kingdom
 
 **_email_** <br>
 jb2088 [at] cam.ac.uk
