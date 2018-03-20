@@ -1,4 +1,5 @@
 ---
+title: 
 layout: single # home
 author_profile: true
 ---
