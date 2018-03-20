@@ -1,5 +1,6 @@
 ---
 permalink: /research/
+classes: wide
 ---
 
 ## research
