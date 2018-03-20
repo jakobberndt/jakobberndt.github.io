@@ -1,6 +1,9 @@
 ---
 permalink: /contact/
+classes: wide
 ---
+
+## contact
 
 **Address** <br>
 Faculty of Economics <br>
