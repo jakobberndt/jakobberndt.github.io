@@ -1,7 +1,6 @@
 ---
 title: research
 permalink: /research/
-classes: wide
 ---
 
 ## working papers
