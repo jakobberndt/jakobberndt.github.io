@@ -9,3 +9,5 @@ author_profile: true
 <p align="justify"> I am a PhD candidate in the department of economics at the University of Cambridge.
 My primary research interests lie in microeconomic theory, information economics, and networks. 
 I am interested in both pure theory and applied questions. </p>
+
+You can access my CV <a href="https://drive.google.com/open?id=0Bwn4EM5WZFZDc0ZmZWRBM0swWTQ" target="_blank">here</a>.
