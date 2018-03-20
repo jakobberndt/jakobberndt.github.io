@@ -9,8 +9,7 @@ permalink: /contact/
 University of Cambridge <br>
 Faculty of Economics <br>
 Sidgwick Avenue <br>
-Cambridge CB3 9DD <br>
-United Kingdom
+Cambridge CB3 9DD
 
 **_email_** <br>
 jb2088 [at] cam.ac.uk
