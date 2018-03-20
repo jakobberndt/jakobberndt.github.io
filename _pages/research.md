@@ -4,10 +4,10 @@ permalink: /research/
 classes: wide
 ---
 
-## research
+## working papers
 
 **Information Manipulation and Propagation in Social Networks** <br>
-Last updated: Sep. 14, 2017
+Last updated: September 14, 2017
 
 <details>
 <summary>Abstract</summary>
