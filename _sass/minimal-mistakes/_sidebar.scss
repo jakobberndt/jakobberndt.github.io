@@ -101,8 +101,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  height: 36px;
+  width: 48px;
+  height: 48px;
 
   @include breakpoint($large) {
     display: block;
@@ -264,7 +264,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-4;
+    font-size: $type-size-6;
     text-decoration: none;
 
     &:hover {
