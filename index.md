@@ -10,6 +10,6 @@ author_profile: true
 My primary research interests lie in microeconomic theory, information economics, and networks. 
 I am interested in both pure theory and applied questions. </p>
 
-<p align="justify"> I received an MSc in economics from the London School of Economics and an MPhil in economic research from the University of Cambridge. After graduating from LSE, I spent two years as at McKinsey & Company. </p>
+<p align="justify"> I received an MSc in economics from the London School of Economics and an MPhil in economic research from the University of Cambridge. After graduating from LSE, I spent two years at McKinsey & Company. </p>
 
 You can access my CV <a href="https://drive.google.com/open?id=0Bwn4EM5WZFZDc0ZmZWRBM0swWTQ" target="_blank">here</a>.
