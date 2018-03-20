@@ -6,7 +6,7 @@ main:
     url: /research/
   - title: "teaching"
     url: /teaching/
-  - title: "cv"
-    url: "https://drive.google.com/open?id=0Bwn4EM5WZFZDc0ZmZWRBM0swWTQ"
+  # - title: "cv"
+    # url: "https://drive.google.com/open?id=0Bwn4EM5WZFZDc0ZmZWRBM0swWTQ"
   - title: "contact"
     url: /contact/
