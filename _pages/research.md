@@ -5,8 +5,7 @@ permalink: /research/
 
 ## working papers
 
-<!-- **<span style="color:rgb(0,120,120)"> Information Manipulation and Propagation in Social Networks </span>** <br> --->
-<a href="https://jakobberndt.github.io/research/" target="_blank">Information Manipulation and Propagation in Social Networks</a> <br>
+<a href="https://drive.google.com/file/d/10S4DYSaxUWBCzzqz48YDcMxjqizguAA-/view?usp=sharing" target="_blank">Information Manipulation and Propagation in Social Networks</a> <br>
 Last updated: September 14, 2017
 
 <details>
