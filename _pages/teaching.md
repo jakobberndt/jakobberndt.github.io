@@ -1,5 +1,6 @@
 ---
 permalink: /teaching/
+classes: wide
 ---
 
 ## teaching
