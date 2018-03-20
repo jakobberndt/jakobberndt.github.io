@@ -1,5 +1,5 @@
 ---
-title: 
+title: contact
 permalink: /contact/
 classes: wide
 ---
