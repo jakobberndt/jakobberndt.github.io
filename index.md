@@ -1,7 +1,6 @@
 ---
 title: home
 layout: single # home
-classes: wide
 author_profile: true
 ---
 
