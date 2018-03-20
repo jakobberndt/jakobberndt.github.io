@@ -17,5 +17,5 @@ web:    jakobberndt.github.io
 
 ## links
 
-[faculty website](http://www.econ.cam.ac.uk/people/phd/jb2088) <br>
-[google scholar](https://scholar.google.co.uk/citations?user=mD4k0WIAAAAJ&hl=en)
+<a href="http://www.econ.cam.ac.uk/people/phd/jb2088" target="_blank">faculty website</a> <br>
+<a href="https://scholar.google.co.uk/citations?user=mD4k0WIAAAAJ&hl=en" target="_blank">google scholar</a>
