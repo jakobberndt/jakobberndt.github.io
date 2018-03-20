@@ -1,7 +1,6 @@
 ---
 title: teaching
 permalink: /teaching/
-classes: wide
 ---
 
 ## teaching
