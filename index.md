@@ -1,10 +1,9 @@
 ---
 title: 
 layout: single # home
+classes: wide
 author_profile: true
 ---
-
-## about
 
 I am a PhD candidate in the department of economics at the University of Cambridge.
 
