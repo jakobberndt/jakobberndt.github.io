@@ -5,6 +5,8 @@ permalink: /research/
 
 ## working papers
 
+**<span style="color:rgb(0,135,135)"> Information Manipulation and Propagation in Social Networks </span>**
+
 **Information Manipulation and Propagation in Social Networks** <br>
 Last updated: September 14, 2017
 
