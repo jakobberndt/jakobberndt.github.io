@@ -1,5 +1,5 @@
 ---
-title: 
+title: research
 permalink: /research/
 classes: wide
 ---
