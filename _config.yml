@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JAKOB M. BERNDT"
+title                    : "Jakob M. Berndt"
 title_separator          : "|"
 name                     : "Jakob M. Berndt"
 description              : "Personal website"
@@ -102,8 +102,8 @@ author:
   bio              : "PhD candidate in economics at the University of Cambridge"
   location         : "Cambridge, UK"
   email            : jb2088@cam.ac.uk
-  uri              : 
-  home             : /index/
+  uri              : "http://www.econ.cam.ac.uk/people/phd/jb2088"
+  home             : 
   bitbucket        :
   codepen          :
   dribbble         :
