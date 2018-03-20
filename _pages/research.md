@@ -26,9 +26,3 @@ Last updated: September 14, 2017
 ## work in progress
 
 Higher Order Uncertainty in Social Learning
-
-
-## links
-
-[faculty website](http://www.econ.cam.ac.uk/people/phd/jb2088) <br>
-[google scholar](https://scholar.google.co.uk/citations?user=mD4k0WIAAAAJ&hl=en)
