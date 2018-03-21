@@ -30,12 +30,7 @@ Judge Business School, University of Cambridge
 <details>
 <summary> [Fall 2017] <a href="https://www.jbs.cam.ac.uk/programmes/undergraduate/programme-overview/core-courses/" target="_blank">Economics of Firms and Markets</a> (undergraduate)</summary>
 <p align="justify"> The course shows how business economics may be used to explain and predict phenomena relating to markets and firms, and explores some of the possible uses of business economics in the analysis of management problems and in managerial decision-making. The course covers basic microeconomics and introduces macroeconomics. </p>
-</details>
-<!--
-<summary> [Fall 2018] <a href="https://www.jbs.cam.ac.uk/programmes/undergraduate/programme-overview/core-courses/" target="_blank">Economics of Firms and Markets</a> (undergraduate)</summary>
-<p align="justify"> The course shows how business economics may be used to explain and predict phenomena relating to markets and firms, and explores some of the possible uses of business economics in the analysis of management problems and in managerial decision-making. The course covers basic microeconomics and introduces macroeconomics. </p>
-</details>
--->
+</details> <br>
 
 
 Department of Engineering, University of Cambridge
