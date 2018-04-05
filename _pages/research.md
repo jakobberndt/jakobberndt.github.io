@@ -10,7 +10,7 @@ permalink: /research/
 
 ## work in progress
 
-<a href="" target="_blank">Higher Order Uncertainty in Social Learning </a> <br>
+<a href="" target="_blank">Higher Order Uncertainty in Social Learning</a> <br>
 Last updated: March 08, 2018
 
 <details open>
