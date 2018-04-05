@@ -10,7 +10,6 @@ permalink: /research/
 
 ## work in progress
 
-
 <a href="" target="_blank">Higher Order Uncertainty in Social Learning </a> <br>
 Last updated: March 08, 2018
 
@@ -19,7 +18,6 @@ Last updated: March 08, 2018
 <p align="justify"> We frequently rely on information gleaned from observing others. When receiving signals on a rumour from an unknown source, we cannot only learn something about the veracity of the rumour, but also about the information source. 
 In this paper, I study how higher order uncertainty about the information sources affects the equilibrium outcome in a model of Bayesian social learning. I look at an environment in which individuals are uncertain about the conditional distribution of signals given an underlying parameter. Agents are learning both about the unknown underlying state of nature and the signal distribution. Intuitively, if other agents received similar signals, an agent may conclude that it is more likely that his signal is informative about the state of nature. </p>
 </details><br>
-
 
 <a href="" target="_blank">Information Manipulation and Propagation in Social Networks</a> <br>
 Last updated: September 14, 2017
