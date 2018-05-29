@@ -16,7 +16,7 @@ The course is divided into three parts: choice theory (preferences, choice and u
 <summary> [Spring 2019] <a href="http://www.econ.cam.ac.uk/apply/mphil-economic-research/mphil-economic-research-course-modules/optional-modules" target="_blank">Industrial Organisation</a> (graduate)</summary>
 <p align="justify"> This course develops some of the central topics in the theory of industrial organisation. Although the main angle of analysis will be analytical, applications of the theory to practical competition policy issues will be emphasised. In particular, issues of market power, anticompetitive practices and possible policy responses will be discussed. </p>
 </details> <br>
--->
+--->
 
 
 Judge Business School, University of Cambridge
