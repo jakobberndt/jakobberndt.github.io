@@ -16,7 +16,9 @@ Last updated: March 08, 2018
 <details open>
 <summary>Abstract</summary>
 <p align="justify"> This paper studies how uncertainty about the reliability of information sources affects the equilibrium outcome in a model of rational social learning. Agents are located on nodes of an exogenously given network and are endowed with noisy private signals about an underlying state of the world. They face uncertainty about the signal distribution and need to decide which of their neighbors to rely on when forming their opinions. The two core concepts of interest are learning and agreement. I show that agents exhibit a confirmation bias, relying predominantly on neighbors who observe similar signals, and that uncertainty can help explain disagreement on factual questions. </p>
-</details><br>
+</details>
+
+<br>
 
 <a href="" target="_blank">Information Manipulation and Propagation in Social Networks</a> <br>
 Last updated: September 14, 2017
