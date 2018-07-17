@@ -24,22 +24,24 @@ The course is divided into three parts: choice theory, choice under uncertainty,
 
 
 <!--
-<details>
+<p> <details>
 <summary> [Fall 2018, Spring 2019] <a href="http://www.econ.cam.ac.uk/ba/outlines/Part_IIA_Paper_6.pdf" target="_blank">Mathematics and Statistics</a> (undergraduate)</summary>
 <p align="justify"> This course covers essential mathematics for econometrics and problems of optimal choice. The mathematics part covers static and dynamic optimization techniques. The first part of the course contains a full presentation of the Lagrange (Kuhn-Tucker) method. The second part is an introduction into dynamic optimization, in particular optimal control. The probability and statistics part covers essential mathematics for econometrics: Probability theory, linear algebra, and statistics. </p>
-</details> <br>
+</details> </p>
 -->
 
+<br>
 
-Judge Business School, University of Cambridge
+<p> Judge Business School, University of Cambridge
 <details>
 <summary> [Fall 2017] <a href="https://www.jbs.cam.ac.uk/programmes/undergraduate/programme-overview/core-courses/" target="_blank">Economics of Firms and Markets</a> (undergraduate)</summary>
 <p align="justify"> The course shows how business economics may be used to explain and predict phenomena relating to markets and firms, and explores some of the possible uses of business economics in the analysis of management problems and in managerial decision-making. The course covers basic microeconomics and introduces macroeconomics. </p>
-</details> <br>
+</details> </p>
 
+<br>
 
-Department of Engineering, University of Cambridge
+<p> Department of Engineering, University of Cambridge
 <details>
 <summary> [Fall 2017] <a href="http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-3e1-business-economics-2017-18" target="_blank">Business Economics</a> (undergraduate)</summary>
 <p align="justify"> The aims of the course are to introduce students to the use of economics to understand the operation and decisions of businesses, their industrial environment and the macroeconomy. Specific topics that are covered include consumer theory, theory of the firm and different market structures, game theory, and welfare economics. </p>
-</details>
+</details> </p> 
