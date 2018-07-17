@@ -5,20 +5,22 @@ permalink: /teaching/
 
 ## teaching
 
-Department of Economics, University of Cambridge
+<p> Department of Economics, University of Cambridge
 <details>
 <summary> [Fall 2018] <a href="http://www.econ.cam.ac.uk/graduate/mphil/modules/E100.pdf" target="_blank">Microeconomics</a> (graduate)</summary>
 <p align="justify"> This course covers the standard economic models of individual decision-making with and without uncertainty, models of consumer behaviour and producer behaviour under perfect competition and the Arrow-Debreu general equilibrium model.
 The course is divided into three parts: choice theory, choice under uncertainty, and general equilibrium. </p>
-</details> <br>
-<details>
+</details> </p>
+
+<p> <details>
 <summary> [Spring 2019] <a href="http://www.econ.cam.ac.uk/apply/mphil-economic-research/mphil-economic-research-course-modules/optional-modules" target="_blank">Industrial Organisation</a> (graduate)</summary>
 <p align="justify"> This course develops some of the central topics in the theory of industrial organisation. Although the main angle of analysis will be analytical, applications of the theory to practical competition policy issues will be emphasised. In particular, issues of market power, anticompetitive practices and possible policy responses will be discussed. </p>
-</details> <br>
-<details>
+</details> </p>
+
+<p> <details>
 <summary> [Fall 2018, Spring 2019] <a href="http://www.econ.cam.ac.uk/ba/outlines/Part_I_Paper_3.pdf" target="_blank">Quantitative Methods</a> (undergraduate)</summary>
 <p align="justify"> This course covers the essential mathematical concepts and techniques required for economics. It is divided into a mathematics and a statistics part. The mathematics part covers calculus and optimisation, linear algebra, and difference and differential equations. The statistics part covers descriptive statistics, probability and distribution theory, and estimation and inference. </p>
-</details> <br>
+</details> </p>
 
 
 <!--
