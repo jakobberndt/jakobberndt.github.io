@@ -7,7 +7,7 @@ permalink: /teaching/
 
 <p> Department of Economics, University of Cambridge
 <details>
-<summary><a href="http://www.econ.cam.ac.uk/graduate/mphil/modules/E100.pdf" target="_blank">Microeconomics</a> (graduate) &nbsp; [Fall 2018]</summary>
+<summary><a href="http://www.econ.cam.ac.uk/graduate/mphil/modules/E100.pdf" target="_blank">Microeconomics</a> | graduate | 2018</summary>
 <p align="justify"> This course covers the standard economic models of individual decision-making with and without uncertainty, models of consumer behaviour and producer behaviour under perfect competition and the Arrow-Debreu general equilibrium model.
 The course is divided into three parts: choice theory, choice under uncertainty, and general equilibrium. </p>
 </details> </p>
