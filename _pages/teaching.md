@@ -12,12 +12,10 @@ permalink: /teaching/
 The course is divided into three parts: choice theory, choice under uncertainty, and general equilibrium. </p>
 </details> </p>
 
-<!--
 <p> <details>
 <summary><a href="http://www.econ.cam.ac.uk/apply/mphil-economic-research/mphil-economic-research-course-modules/optional-modules" target="_blank">Industrial Organisation</a> | graduate | 2019</summary>
 <p align="justify"> This course develops some of the central topics in the theory of industrial organisation. Although the main angle of analysis will be analytical, applications of the theory to practical competition policy issues will be emphasised. In particular, issues of market power, anticompetitive practices and possible policy responses will be discussed. </p>
 </details> </p>
--->
 
 <p> <details>
 <summary><a href="http://www.econ.cam.ac.uk/ba/outlines/Part_I_Paper_3.pdf" target="_blank">Quantitative Methods</a> | undergraduate | 2018-2019</summary>
