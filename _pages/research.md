@@ -10,12 +10,13 @@ permalink: /research/
 
 ## work in progress
 
-<a href="" target="_blank">Higher Order Uncertainty in Social Learning</a> <br>
+<a href="" target="_blank">Learning from Unreliable Sources</a> <br>
 Last updated: August 29, 2018 (draft available soon)
 
 <details open>
 <summary>Abstract</summary>
-<p align="justify"> This paper studies how uncertainty about the reliability of information sources affects the equilibrium outcome in a model of rational social learning. Agents are located on nodes of an exogenously given network and are endowed with noisy private signals about an underlying state of the world. They face uncertainty about the signal distribution and need to decide which of their neighbors to rely on when forming their opinions. The two core concepts of interest are learning and agreement. I show that agents exhibit a confirmation bias, relying predominantly on neighbors who observe similar signals, and that uncertainty can help explain disagreement on factual questions. </p>
+<p align="justify"> This paper studies how uncertainty about the reliability of information sources affects the equilibrium outcome in a model of rational social learning. Agents are located on nodes of an exogenously given network and are endowed with noisy private signals about an underlying state of the world. They face uncertainty about the signal distribution of their own signals and the signals of their neighbors and need to decide which sources to rely on when forming their opinions.
+I show that agents exhibit a rational confirmation bias, relying predominantly on neighbors who observe similar signals. In addition, this type of uncertainty can help explain persistent disagreement. Agents may cut links to neighbors and discard their information in the formation of their opinion. This allows endogenous subgraphs to build and neighbors to hold different opinions indefinitely.</p>
 </details>
 <a href="" target="_blank">[download pdf]</a> 
 
