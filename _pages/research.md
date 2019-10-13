@@ -32,6 +32,8 @@ Last updated: September 14, 2017
 
 <br>
 
+<!--
 Persuasion of Different World Views (with Claudia Herresthal)
 
 Mapping of Rumours and Information Diffusion (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Flavio Toxvaerd)
+-->
