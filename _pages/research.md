@@ -18,7 +18,7 @@ Last updated: August 29, 2018 (draft available soon)
 <p align="justify"> This paper studies how uncertainty about the reliability of information sources affects the equilibrium outcome in a model of rational social learning. Agents are located on nodes of an exogenously given network and are endowed with noisy private signals about an underlying state of the world. They face uncertainty about the signal distribution of their own signals and the signals of their neighbors and need to decide which sources to rely on when forming their opinions.
 I show that agents exhibit a rational confirmation bias, relying predominantly on neighbors who observe similar signals. In addition, this type of uncertainty can help explain persistent disagreement. Agents may cut links to neighbors and discard their information in the formation of their opinion. This allows endogenous subgraphs to build and neighbors to hold different opinions indefinitely.</p>
 </details>
-<a href="" target="_blank">[download pdf]</a> 
+<a href="" target="_blank">[download pdf]</a> <br>
 
 <br>
 
@@ -32,6 +32,6 @@ Last updated: September 14, 2017
 
 <br>
 
-<a href="" target="_blank">Persuasion of Different World Views (with Claudia Herresthal)</a> <br>
+Persuasion of Different World Views (with Claudia Herresthal)
 
-<a href="" target="_blank">Mapping of Rumours and Information Diffusion (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Flavio Toxvaerd)</a> <br>
+Mapping of Rumours and Information Diffusion (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Flavio Toxvaerd)
