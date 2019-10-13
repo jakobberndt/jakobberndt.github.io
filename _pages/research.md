@@ -20,7 +20,6 @@ I show that agents exhibit a rational confirmation bias, relying predominantly o
 </details>
 <a href="" target="_blank">[download pdf]</a> 
 
-<!--
 <br>
 
 <a href="" target="_blank">Information Manipulation and Propagation in Social Networks</a> <br>
@@ -30,4 +29,9 @@ Last updated: September 14, 2017
 <summary>Abstract</summary>
 <p align="justify"> This paper presents a model of a manipulator trying to influence the collective decision of a population of agents. The novelty is to capture Bayesian persuasion followed by information diffusion in a network. Unbiased agents want the collective decision to match an unknown state of the world, while biased agents share the preferences of the manipulator. The manipulator controls the distribution of a signal. Agents communicate at a cheap talk stage. The manipulator faces a trade-off between a higher degree manipulation and higher information diffusion. The optimal degree of manipulation is inversely related to the density of biased agents. </p>
 </details>
--->
+
+<br>
+
+<a href="" target="_blank">Persuasion of Different World Views (with Claudia Herresthal)</a> <br>
+
+<a href="" target="_blank">Mapping of Rumours and Information Diffusion (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Flavio Toxvaerd)</a> <br>
