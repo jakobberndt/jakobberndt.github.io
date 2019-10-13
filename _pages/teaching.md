@@ -12,6 +12,7 @@ permalink: /teaching/
 The course is divided into three parts: choice theory, choice under uncertainty, and general equilibrium. </p>
 </details> </p>
 
+<p> <details>
 <summary><a href="http://www.econ.cam.ac.uk/graduate/mphil/modules/R101.pdf" target="_blank">Game Theory</a> | graduate (research) | 2019</summary>
 <p align="justify"> This course covers the basic tools of (mainly non-cooperative) game theory. The course is concerned with both static and dynamic games of perfect/complete and imperfect/incomplete information. The course also covers bargaining, as well as mechanism design. </p>
 </details> </p>
