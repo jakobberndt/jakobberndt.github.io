@@ -31,9 +31,9 @@ I show that agents exhibit a rational confirmation bias, relying predominantly o
 </details>
 <a href="" target="_blank">[download pdf]</a>
 
+<!--
 <br>
 
-<!--
 <a href="" target="_blank">Information Manipulation and Propagation in Social Networks</a> <br>
 Last updated: September 14, 2017
 
