@@ -10,6 +10,17 @@ permalink: /research/
 
 ## work in progress
 
+<a href="" target="_blank">Mapping of Rumours and Information Diffusion</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Flavio Toxvaerd)<br>
+[sponsored by Keynes Fund]
+
+<details open>
+<summary>Abstract</summary>
+<p align="justify"> In this project, we seek to explore the mapping and tracking of rumours and how information is diffused and propagated in populations. In particular, we wish to make use of recent advances in computer science, computational linguistics, biology and social networks that have allowed researchers to build elaborate and sophisticated surveillance and early warning systems and applied these to the monitoring of infectious diseases, riots and earthquakes. We plan to explore how this type of methodology can be employed to study rumours more generally, with an emphasis on their effects on real and financial markets. In particular, we wish to quantify information diffusion and relate it to movements in key financial quantities such as share prices and trading volumes.</p>
+</details>
+<a href="" target="_blank">[download pdf]</a>
+
+<br>
+
 <a href="" target="_blank">Learning from Unreliable Sources</a> <br>
 Last updated: August 29, 2018 (draft available soon)
 
@@ -22,6 +33,7 @@ I show that agents exhibit a rational confirmation bias, relying predominantly o
 
 <br>
 
+<!--
 <a href="" target="_blank">Information Manipulation and Propagation in Social Networks</a> <br>
 Last updated: September 14, 2017
 
@@ -29,11 +41,11 @@ Last updated: September 14, 2017
 <summary>Abstract</summary>
 <p align="justify"> This paper presents a model of a manipulator trying to influence the collective decision of a population of agents. The novelty is to capture Bayesian persuasion followed by information diffusion in a network. Unbiased agents want the collective decision to match an unknown state of the world, while biased agents share the preferences of the manipulator. The manipulator controls the distribution of a signal. Agents communicate at a cheap talk stage. The manipulator faces a trade-off between a higher degree manipulation and higher information diffusion. The optimal degree of manipulation is inversely related to the density of biased agents. </p>
 </details>
+<a href="" target="_blank">[download pdf]</a>
+--->
 
 <br>
 
-<!--
 Persuasion of Different World Views (with Claudia Herresthal)
 
-Mapping of Rumours and Information Diffusion (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Flavio Toxvaerd)
--->
+Information Manipulation and Propagation in Social Networks
