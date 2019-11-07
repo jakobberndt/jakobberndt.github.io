@@ -14,7 +14,6 @@ permalink: /research/
 </details>
 <a href="" target="_blank">[download pdf]</a>
 
-<br>
 
 <a href="" target="_blank">Learning from Unreliable Sources</a> <br>
 Last updated: August 29, 2018 (draft available soon)
@@ -38,6 +37,7 @@ Last updated: September 14, 2017
 </details>
 <a href="" target="_blank">[download pdf]</a>
 --->
+
 
 ## work in progress
 
