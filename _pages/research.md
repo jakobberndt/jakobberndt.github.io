@@ -3,12 +3,7 @@ title: research
 permalink: /research/
 ---
 
-<!--
 ## working papers
--->
-
-
-## work in progress
 
 <a href="" target="_blank">Mapping of Rumours and Information Diffusion</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Flavio Toxvaerd)<br>
 [sponsored by Keynes Fund]
@@ -44,7 +39,7 @@ Last updated: September 14, 2017
 <a href="" target="_blank">[download pdf]</a>
 --->
 
-<br>
+## work in progress
 
 Persuasion of Different World Views (with Claudia Herresthal)
 
