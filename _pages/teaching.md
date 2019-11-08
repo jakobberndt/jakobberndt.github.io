@@ -23,7 +23,7 @@ The course is divided into three parts: choice theory, choice under uncertainty,
 </details> </p>
 
 <p> <details>
-<summary><a href="http://www.econ.cam.ac.uk/ba/outlines/Part_I_Paper_3.pdf" target="_blank">Quantitative Methods</a> | undergraduate | 2018-2019</summary>
+<summary><a href="http://www.econ.cam.ac.uk/ba/outlines/Part_I_Paper_3.pdf" target="_blank">Quantitative Methods</a> | undergraduate | 2018-2020</summary>
 <p align="justify"> This course covers the essential mathematical concepts and techniques required for economics. It is divided into a mathematics and a statistics part. The mathematics part covers calculus and optimisation, linear algebra, and difference and differential equations. The statistics part covers descriptive statistics, probability and distribution theory, and estimation and inference. </p>
 </details> </p>
 
