@@ -14,5 +14,5 @@ I am interested in both pure theory and applied questions, employing techniques 
 
 <!--
 <p> You can access my CV <a href="" target="_blank">here</a>. </p>
-<a href="https://drive.google.com/open?id=0Bwn4EM5WZFZDc0ZmZWRBM0swWTQ" target="_blank">here</a>
+<a href="" target="_blank">here</a>
 -->
