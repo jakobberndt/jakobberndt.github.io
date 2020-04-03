@@ -98,20 +98,20 @@ analytics:
 # Site Author
 author:
   name             : "Jakob M. Berndt"
-  avatar           : "/images/jakobberndt_new.jpg"
+  avatar           : "/images/jakobberndt_bw.jpg"
   bio              : "PhD candidate in economics <br> University of Cambridge"
   location         : "Cambridge, UK"
   email            : jb2088@cam.ac.uk
   uri              : "http://www.econ.cam.ac.uk/people/phd/jb2088"
-  home             : 
+  home             :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # jakobberndt
-  gitlab           : # jakobberndt
+  github           : jakobberndt
+  gitlab           : jakobberndt
   google_plus      :
   keybase          :
   instagram        :
