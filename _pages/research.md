@@ -14,7 +14,7 @@ Last updated: May 05, 2020
 </details>
 <a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[download pdf]</a>
 
-<br>
+&nbsp;
 
 <a href="https://arxiv.org/abs/2005.00388" target="_blank">Synthetic Samples Improve Zero-Shot Cross-Target Generalization: A Study on Stance Detection in the Financial Domain</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)<br>
 Last updated: May 01, 2020
@@ -25,7 +25,7 @@ Last updated: May 01, 2020
 </details>
 <a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[download pdf]</a>
 
-<br>
+&nbsp;
 
 <a href="" target="_blank">Learning from Unreliable Sources</a> <br>
 Last updated: August 29, 2018 (draft available soon)
@@ -50,7 +50,7 @@ Last updated: September 14, 2017
 <a href="" target="_blank">[download pdf]</a>
 --->
 
-<br>
+&nbsp;
 
 ## work in progress
 
