@@ -5,14 +5,25 @@ permalink: /research/
 
 ## working papers
 
-<a href="" target="_blank">Mapping of Rumours and Information Diffusion</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Flavio Toxvaerd)<br>
-[sponsored by Keynes Fund]
+<a href="https://arxiv.org/abs/2005.00388" target="_blank">Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Flavio Toxvaerd)<br>
+Last updated: May 05, 2020
 
 <details open>
 <summary>Abstract</summary>
-<p align="justify"> In this project, we seek to explore the mapping and tracking of rumours and how information is diffused and propagated in populations. In particular, we wish to make use of recent advances in computer science, computational linguistics, biology and social networks that have allowed researchers to build elaborate and sophisticated surveillance and early warning systems and applied these to the monitoring of infectious diseases, riots and earthquakes. We plan to explore how this type of methodology can be employed to study rumours more generally, with an emphasis on their effects on real and financial markets. In particular, we wish to quantify information diffusion and relate it to movements in key financial quantities such as share prices and trading volumes.</p>
+<p align="justify">We present a new challenging stance detection dataset, called Will-They-Won't-They (WT-WT), which contains 51,284 tweets in English, making it by far the largest available dataset of the type. All the annotations are carried out by experts; therefore, the dataset constitutes a high-quality and reliable benchmark for future research in stance detection. Our experiments with a wide range of recent state-of-the-art stance detection systems show that the dataset poses a strong challenge to existing models in this domain.</p>
 </details>
-<a href="" target="_blank">[download pdf]</a>
+<a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[download pdf]</a>
+
+<br>
+
+<a href="https://arxiv.org/abs/2005.00388" target="_blank">Synthetic Samples Improve Zero-Shot Cross-Target Generalization: A Study on Stance Detection in the Financial Domain</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)<br>
+Last updated: May 01, 2020
+
+<details open>
+<summary>Abstract</summary>
+<p align="justify">Zero-shot cross-target generalization is a known problem instance detection, where systems tend to perform poorly when exposed to targets unseen during training. Given that data annotation is expensive and time-consuming, finding ways to leverage abundant unlabeled in-domain data is of great importance.  In this paper, we propose an inexpensive semi-supervised approach to enhance cross-target generalization through synthetically annotated data. We focus on stance detection in the financial domain using a large, recently released corpus of tweets discussing large mergers in the healthcare sector, which we enrich which a new set of expert-annotated tweets. We show experimentally that integrating synthetic data is helpful for cross-target generalization, leading to significant improvements in performance when the testing domain differs from the training domain, with gains in F1 scores ranging from +3.4 to +5.1.</p>
+</details>
+<a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[download pdf]</a>
 
 <br>
 
@@ -42,6 +53,8 @@ Last updated: September 14, 2017
 <br>
 
 ## work in progress
+
+A Study on Adversarial Domain Adaptation for Twitter Stance Detection (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)
 
 Persuasion of Different World Views (with Claudia Herresthal)
 
