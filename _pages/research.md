@@ -6,7 +6,7 @@ permalink: /research/
 ## working papers
 
 <a href="https://arxiv.org/abs/2005.00388" target="_blank">Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Flavio Toxvaerd) <br>
-Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)</em>
+forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)</em>
 
 <!-- <small>Last updated: May 05, 2020</small> <br> -->
 <a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[download pdf]</a> &nbsp;
@@ -22,7 +22,8 @@ Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association
 <a href="https://arxiv.org/abs/2005.00388" target="_blank">Synthetic Samples Improve Zero-Shot Cross-Target Generalization: A Study on Stance Detection in the Financial Domain</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)
 
 <!-- <small>Last updated: May 01, 2020</small> <br> -->
-<a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[download pdf]</a>
+<!-- <a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[download pdf]</a> -->
+[download pdf]
 
 <details open>
 <summary>Abstract</summary>
@@ -31,10 +32,12 @@ Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association
 
 &nbsp;
 
-<a href="" target="_blank">Learning from Unreliable Sources</a>
+<a href="" target="_blank">Learning from Unreliable Sources</a> <br>
+(draft available soon)
 
 <!-- <small>Last updated: August 29, 2018 (draft available soon)</small> <br> -->
-<a href="" target="_blank">[download pdf]</a>
+<!-- <a href="" target="_blank">[download pdf]</a> --> 
+[download pdf]
 
 <details open>
 <summary>Abstract</summary>
@@ -45,9 +48,8 @@ I show that agents exhibit a rational confirmation bias, relying predominantly o
 <!--
 &nbsp;
 
-<a href="" target="_blank">Information Manipulation and Propagation in Social Networks</a>
-
-<!-- <small>Last updated: September 14, 2017</small> <br> -->
+<a href="" target="_blank">Information Manipulation and Propagation in Social Networks</a> <br>
+<small>Last updated: September 14, 2017</small> <br>
 <a href="" target="_blank">[download pdf]</a>
 
 <details open>
