@@ -13,7 +13,7 @@ Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association
 
 <details open>
 <summary>Abstract</summary>
-<p align="justify" style="font-size:80%">We present a new challenging stance detection dataset, called Will-They-Won't-They (WT-WT), which contains 51,284 tweets in English, making it by far the largest available dataset of the type. All the annotations are carried out by experts; therefore, the dataset constitutes a high-quality and reliable benchmark for future research in stance detection. Our experiments with a wide range of recent state-of-the-art stance detection systems show that the dataset poses a strong challenge to existing models in this domain.</p>
+<p align="justify" style="font-size:90%">We present a new challenging stance detection dataset, called Will-They-Won't-They (WT-WT), which contains 51,284 tweets in English, making it by far the largest available dataset of the type. All the annotations are carried out by experts; therefore, the dataset constitutes a high-quality and reliable benchmark for future research in stance detection. Our experiments with a wide range of recent state-of-the-art stance detection systems show that the dataset poses a strong challenge to existing models in this domain.</p>
 </details>
 
 &nbsp;
@@ -25,7 +25,7 @@ Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association
 
 <details open>
 <summary>Abstract</summary>
-<p align="justify">Zero-shot cross-target generalization is a known problem instance detection, where systems tend to perform poorly when exposed to targets unseen during training. Given that data annotation is expensive and time-consuming, finding ways to leverage abundant unlabeled in-domain data is of great importance.  In this paper, we propose an inexpensive semi-supervised approach to enhance cross-target generalization through synthetically annotated data. We focus on stance detection in the financial domain using a large, recently released corpus of tweets discussing large mergers in the healthcare sector, which we enrich which a new set of expert-annotated tweets. We show experimentally that integrating synthetic data is helpful for cross-target generalization, leading to significant improvements in performance when the testing domain differs from the training domain, with gains in F1 scores ranging from +3.4 to +5.1.</p>
+<p align="justify" style="font-size:90%">Zero-shot cross-target generalization is a known problem instance detection, where systems tend to perform poorly when exposed to targets unseen during training. Given that data annotation is expensive and time-consuming, finding ways to leverage abundant unlabeled in-domain data is of great importance.  In this paper, we propose an inexpensive semi-supervised approach to enhance cross-target generalization through synthetically annotated data. We focus on stance detection in the financial domain using a large, recently released corpus of tweets discussing large mergers in the healthcare sector, which we enrich which a new set of expert-annotated tweets. We show experimentally that integrating synthetic data is helpful for cross-target generalization, leading to significant improvements in performance when the testing domain differs from the training domain, with gains in F1 scores ranging from +3.4 to +5.1.</p>
 </details>
 
 &nbsp;
@@ -37,7 +37,7 @@ Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association
 
 <details open>
 <summary>Abstract</summary>
-<p align="justify"> This paper studies how uncertainty about the reliability of information sources affects the equilibrium outcome in a model of rational social learning. Agents are located on nodes of an exogenously given network and are endowed with noisy private signals about an underlying state of the world. They face uncertainty about the signal distribution of their own signals and the signals of their neighbors and need to decide which sources to rely on when forming their opinions.
+<p align="justify" style="font-size:90%">This paper studies how uncertainty about the reliability of information sources affects the equilibrium outcome in a model of rational social learning. Agents are located on nodes of an exogenously given network and are endowed with noisy private signals about an underlying state of the world. They face uncertainty about the signal distribution of their own signals and the signals of their neighbors and need to decide which sources to rely on when forming their opinions.
 I show that agents exhibit a rational confirmation bias, relying predominantly on neighbors who observe similar signals. In addition, this type of uncertainty can help explain persistent disagreement. Agents may cut links to neighbors and discard their information in the formation of their opinion. This allows endogenous subgraphs to build and neighbors to hold different opinions indefinitely.</p>
 </details>
 
@@ -50,7 +50,7 @@ I show that agents exhibit a rational confirmation bias, relying predominantly o
 
 <details open>
 <summary>Abstract</summary>
-<p align="justify"> This paper presents a model of a manipulator trying to influence the collective decision of a population of agents. The novelty is to capture Bayesian persuasion followed by information diffusion in a network. Unbiased agents want the collective decision to match an unknown state of the world, while biased agents share the preferences of the manipulator. The manipulator controls the distribution of a signal. Agents communicate at a cheap talk stage. The manipulator faces a trade-off between a higher degree manipulation and higher information diffusion. The optimal degree of manipulation is inversely related to the density of biased agents. </p>
+<p align="justify" style="font-size:90%">This paper presents a model of a manipulator trying to influence the collective decision of a population of agents. The novelty is to capture Bayesian persuasion followed by information diffusion in a network. Unbiased agents want the collective decision to match an unknown state of the world, while biased agents share the preferences of the manipulator. The manipulator controls the distribution of a signal. Agents communicate at a cheap talk stage. The manipulator faces a trade-off between a higher degree manipulation and higher information diffusion. The optimal degree of manipulation is inversely related to the density of biased agents. </p>
 </details>
 --->
 
