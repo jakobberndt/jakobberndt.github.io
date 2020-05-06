@@ -17,7 +17,7 @@ Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association
 <p align="justify">We present a new challenging stance detection dataset, called Will-They-Won't-They (WT-WT), which contains 51,284 tweets in English, making it by far the largest available dataset of the type. All the annotations are carried out by experts; therefore, the dataset constitutes a high-quality and reliable benchmark for future research in stance detection. Our experiments with a wide range of recent state-of-the-art stance detection systems show that the dataset poses a strong challenge to existing models in this domain.</p>
 </details>
 
-&nbsp;
+<hr style="height:3px; visibility:hidden;" />
 
 <a href="https://arxiv.org/abs/2005.00388" target="_blank">Synthetic Samples Improve Zero-Shot Cross-Target Generalization: A Study on Stance Detection in the Financial Domain</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)
 
