@@ -5,7 +5,7 @@ permalink: /research/
 
 ## working papers
 
-<a href="https://arxiv.org/abs/2005.00388" target="_blank">Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Flavio Toxvaerd) <br>
+<b>Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter</b> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Flavio Toxvaerd) <br>
 Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)</em>
 
 <a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[paper]</a> &nbsp; [slides]
@@ -18,7 +18,7 @@ Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association
 
 &nbsp;
 
-<a href="https://arxiv.org/abs/2005.00388" target="_blank">Synthetic Samples Improve Zero-Shot Cross-Target Generalization: A Study on Stance Detection in the Financial Domain</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)
+<b>Synthetic Samples Improve Zero-Shot Cross-Target Generalization: A Study on Stance Detection in the Financial Domain</b> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)
 
 <!-- <a href="" target="_blank">[paper]</a> -->
 [paper]
@@ -30,8 +30,7 @@ Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association
 
 &nbsp;
 
-<a href="" target="_blank">Learning from Unreliable Sources</a> <br>
-(draft available soon)
+<b>Learning from Unreliable Sources</b> <br>
 
 <!-- <a href="" target="_blank">[paper]</a> --> 
 [paper]
