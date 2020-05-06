@@ -5,7 +5,7 @@ permalink: /research/
 
 ## working papers
 
-<b>Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter</b> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Flavio Toxvaerd) <br>
+<a href="https://arxiv.org/abs/2005.00388" target="_blank">Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Flavio Toxvaerd) <br>
 Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)</em>
 
 <a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[paper]</a> &nbsp; [slides]
@@ -13,12 +13,12 @@ Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association
 
 <details open>
 <summary>Abstract</summary>
-<p align="justify">We present a new challenging stance detection dataset, called Will-They-Won't-They (WT-WT), which contains 51,284 tweets in English, making it by far the largest available dataset of the type. All the annotations are carried out by experts; therefore, the dataset constitutes a high-quality and reliable benchmark for future research in stance detection. Our experiments with a wide range of recent state-of-the-art stance detection systems show that the dataset poses a strong challenge to existing models in this domain.</p>
+<p align="justify" style="font-size:80%">We present a new challenging stance detection dataset, called Will-They-Won't-They (WT-WT), which contains 51,284 tweets in English, making it by far the largest available dataset of the type. All the annotations are carried out by experts; therefore, the dataset constitutes a high-quality and reliable benchmark for future research in stance detection. Our experiments with a wide range of recent state-of-the-art stance detection systems show that the dataset poses a strong challenge to existing models in this domain.</p>
 </details>
 
 &nbsp;
 
-<b>Synthetic Samples Improve Zero-Shot Cross-Target Generalization: A Study on Stance Detection in the Financial Domain</b> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)
+<a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">Synthetic Samples Improve Zero-Shot Cross-Target Generalization: A Study on Stance Detection in the Financial Domain</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)
 
 <!-- <a href="" target="_blank">[paper]</a> -->
 [paper]
@@ -30,7 +30,7 @@ Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association
 
 &nbsp;
 
-<b>Learning from Unreliable Sources</b> <br>
+<a href="" target="_blank">Learning from Unreliable Sources</a>
 
 <!-- <a href="" target="_blank">[paper]</a> --> 
 [paper]
@@ -44,8 +44,8 @@ I show that agents exhibit a rational confirmation bias, relying predominantly o
 <!--
 &nbsp;
 
-<a href="" target="_blank">Information Manipulation and Propagation in Social Networks</a> <br>
-<small>Last updated: September 14, 2017</small> <br>
+<a href="" target="_blank">Information Manipulation and Propagation in Social Networks</a>
+
 <a href="" target="_blank">[paper]</a>
 
 <details open>
