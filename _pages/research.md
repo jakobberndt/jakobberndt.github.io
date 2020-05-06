@@ -7,7 +7,7 @@ permalink: /research/
 
 <a href="https://arxiv.org/abs/2005.00388" target="_blank">Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Flavio Toxvaerd) <br>
 Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)</em>
-<hr style="height:5px; visibility:hidden;" />
+
 <a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[paper]</a> &nbsp; [slides]
 <!-- <a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[download slides]</a> -->
 
@@ -16,10 +16,11 @@ Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association
 <p align="justify">We present a new challenging stance detection dataset, called Will-They-Won't-They (WT-WT), which contains 51,284 tweets in English, making it by far the largest available dataset of the type. All the annotations are carried out by experts; therefore, the dataset constitutes a high-quality and reliable benchmark for future research in stance detection. Our experiments with a wide range of recent state-of-the-art stance detection systems show that the dataset poses a strong challenge to existing models in this domain.</p>
 </details>
 
-<hr style="height:3px" />
+&nbsp;
 
 <a href="https://arxiv.org/abs/2005.00388" target="_blank">Synthetic Samples Improve Zero-Shot Cross-Target Generalization: A Study on Stance Detection in the Financial Domain</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)
-<hr style="height:5px; visibility:hidden;" />
+
+<!-- <a href="" target="_blank">[paper]</a> -->
 [paper]
 
 <details open>
@@ -32,7 +33,6 @@ Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association
 <a href="" target="_blank">Learning from Unreliable Sources</a> <br>
 (draft available soon)
 
-<!-- <small>Last updated: August 29, 2018 (draft available soon)</small> <br> -->
 <!-- <a href="" target="_blank">[paper]</a> --> 
 [paper]
 
