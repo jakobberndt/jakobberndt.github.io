@@ -5,11 +5,11 @@ permalink: /research/
 
 ## working papers
 
-<a href="https://arxiv.org/abs/2005.00388" target="_blank">Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Flavio Toxvaerd) <br>
+<a href="https://arxiv.org/abs/2005.00388" target="_blank">Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd) <br>
 Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)</em>
 
-<a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[paper]</a> &nbsp; [slides]
-<!-- <a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[download slides]</a> -->
+<a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[paper]</a> <!-- &nbsp; -->
+<!-- <a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[slides]</a> -->
 
 <details open>
 <summary>Abstract</summary>
