@@ -18,6 +18,21 @@ Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association
 
 &nbsp;
 
+<a href="" target="_blank">Stander: An Expert-Annotated Dataset for News Stance Detection and Evidence Retrieval</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)
+
+<!-- <a href="" target="_blank">[paper]</a> <!-- &nbsp; -->
+[paper]
+<!-- <a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[slides]</a> -->
+
+<details open>
+<summary>Abstract</summary>
+<p align="justify" style="font-size:90%">We present a new challenging news dataset that targets both stance detection (SD) and fine-grained evidence retrieval (ER). With its 3,291 expert-annotated articles, the dataset constitutes a high-quality benchmark for future research in SD and multi-task learning.
+We provide a detailed description of the corpus collection methodology and carry out an extensive analysis on the sources of disagreement between annotators, observing a correlation between their disagreement and the diffusion of uncertainty around a target in the real world.
+Our experiments show that {the dataset} poses a strong challenge to recent state-of-the-art models. Notably, our dataset aligns with an existing Twitter SD dataset: their union thus addresses a key shortcoming of previous works, by providing the first dedicated resource to study multi-genre SD as well as the interplay of signals from social media and news sources in rumour verification.</p>
+</details>
+
+&nbsp;
+
 <a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">Synthetic Samples Improve Zero-Shot Cross-Target Generalization: A Study on Stance Detection in the Financial Domain</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)
 
 <!-- <a href="" target="_blank">[paper]</a> -->
