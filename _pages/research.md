@@ -33,7 +33,7 @@ Our experiments show that {the dataset} poses a strong challenge to recent state
 
 &nbsp;
 
-<a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">Synthetic Samples Improve Zero-Shot Cross-Target Generalization: A Study on Stance Detection in the Financial Domain</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)
+<a href="" target="_blank">Synthetic Samples Improve Zero-Shot Cross-Target Generalization: A Study on Stance Detection in the Financial Domain</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)
 
 <!-- <a href="" target="_blank">[paper]</a> -->
 [paper]
