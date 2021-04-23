@@ -36,7 +36,8 @@ Our experiments show that {the dataset} poses a strong challenge to recent state
 <a href="https://www.aclweb.org/anthology/2021.wassa-1.19/" target="_blank">Synthetic Samples Improve Zero-Shot Cross-Target Generalization: A Study on Stance Detection in the Financial Domain</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)<br>
 <em>Proceedings of the Eleventh Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis</em>
 
-<a href="https://www.aclweb.org/anthology/2021.wassa-1.19/" target="_blank">[paper]</a>
+<a href="https://www.aclweb.org/anthology/2021.wassa-1.19/" target="_blank">[paper]</a> &nbsp;
+<a href="https://drive.google.com/file/d/1WL9SvHAvv42qm8yNWMr-moc1mstPs_rw/view?usp=sharing" target="_blank">[poster]</a>
 
 <details open>
 <summary>Abstract</summary>
@@ -48,7 +49,8 @@ Our experiments show that {the dataset} poses a strong challenge to recent state
 <a href="https://www.aclweb.org/anthology/2021.hackashop-1.1/" target="_blank">Adversarial Training for News Stance Detection: Leveraging Signals from a Multi-Genre Corpus.</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Marco Basaldella, Mohammad Taher Pilehvar, Flavio Toxvaerd)<br>
 <em>Proceedings of the EACL Hackashop on News Media Content Analysis and Automated Report Generation</em>
 
-<a href="https://www.aclweb.org/anthology/2021.hackashop-1.1/" target="_blank">[paper]</a>
+<a href="https://www.aclweb.org/anthology/2021.hackashop-1.1/" target="_blank">[paper]</a> &nbsp;
+<a href="https://drive.google.com/file/d/1yRprniY7ZhxB-LNCHTEg99-ympZzZyv1/view?usp=sharing" target="_blank">[poster]</a>
 
 <details open>
 <summary>Abstract</summary>
