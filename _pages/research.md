@@ -5,7 +5,7 @@ permalink: /research/
 
 ## publications
 
-<a href="https://arxiv.org/abs/2005.00388" target="_blank">Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd) <br>
+<a href="https://arxiv.org/abs/2005.00388" target="_blank">Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)<br>
 <em>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</em>
 
 <a href="https://www.aclweb.org/anthology/2020.acl-main.157/" target="_blank">[paper]</a> <!-- &nbsp; -->
@@ -18,7 +18,7 @@ permalink: /research/
 
 &nbsp;
 
-<a href="" target="_blank">Stander: An Expert-Annotated Dataset for News Stance Detection and Evidence Retrieval</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd) <br>
+<a href="" target="https://www.aclweb.org/anthology/2020.findings-emnlp.365/">Stander: An Expert-Annotated Dataset for News Stance Detection and Evidence Retrieval</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)<br>
 <em>Findings of the Association for Computational Linguistics: EMNLP 2020</em>
 
 <a href="" target="https://www.aclweb.org/anthology/2020.findings-emnlp.365/">[paper]</a> <!-- &nbsp; -->
@@ -33,7 +33,7 @@ Our experiments show that {the dataset} poses a strong challenge to recent state
 
 &nbsp;
 
-<a href="" target="_blank">Synthetic Samples Improve Zero-Shot Cross-Target Generalization: A Study on Stance Detection in the Financial Domain</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)
+<a href="" target="https://www.aclweb.org/anthology/2021.wassa-1.19/">Synthetic Samples Improve Zero-Shot Cross-Target Generalization: A Study on Stance Detection in the Financial Domain</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)<br>
 <em>Proceedings of the Eleventh Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis</em>
 
 <a href="" target="https://www.aclweb.org/anthology/2021.wassa-1.19/">[paper]</a>
@@ -45,7 +45,7 @@ Our experiments show that {the dataset} poses a strong challenge to recent state
 
 &nbsp;
 
-<a href="" target="_blank">Adversarial Training for News Stance Detection: Leveraging Signals from a Multi-Genre Corpus.</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Marco Basaldella, Mohammad Taher Pilehvar, Flavio Toxvaerd)
+<a href="" target="https://www.aclweb.org/anthology/2021.hackashop-1.1/">Adversarial Training for News Stance Detection: Leveraging Signals from a Multi-Genre Corpus.</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Marco Basaldella, Mohammad Taher Pilehvar, Flavio Toxvaerd)<br>
 <em>Proceedings of the EACL Hackashop on News Media Content Analysis and Automated Report Generation</em>
 
 <a href="" target="https://www.aclweb.org/anthology/2021.hackashop-1.1/">[paper]</a>
