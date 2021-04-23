@@ -3,12 +3,12 @@ title: research
 permalink: /research/
 ---
 
-## working papers
+## publications
 
 <a href="https://arxiv.org/abs/2005.00388" target="_blank">Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd) <br>
-Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)</em>
+<em>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</em>
 
-<a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[paper]</a> <!-- &nbsp; -->
+<a href="https://www.aclweb.org/anthology/2020.acl-main.157/" target="_blank">[paper]</a> <!-- &nbsp; -->
 <!-- <a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[slides]</a> -->
 
 <details open>
@@ -18,10 +18,10 @@ Forthcoming in the <em>Proceedings of the 58th Annual Meeting of the Association
 
 &nbsp;
 
-<a href="" target="_blank">Stander: An Expert-Annotated Dataset for News Stance Detection and Evidence Retrieval</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)
+<a href="" target="_blank">Stander: An Expert-Annotated Dataset for News Stance Detection and Evidence Retrieval</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd) <br>
+<em>Findings of the Association for Computational Linguistics: EMNLP 2020</em>
 
-<!-- <a href="" target="_blank">[paper]</a> <!-- &nbsp; -->
-[paper]
+<a href="" target="https://www.aclweb.org/anthology/2020.findings-emnlp.365/">[paper]</a> <!-- &nbsp; -->
 <!-- <a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[slides]</a> -->
 
 <details open>
@@ -34,16 +34,30 @@ Our experiments show that {the dataset} poses a strong challenge to recent state
 &nbsp;
 
 <a href="" target="_blank">Synthetic Samples Improve Zero-Shot Cross-Target Generalization: A Study on Stance Detection in the Financial Domain</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)
+<em>Proceedings of the Eleventh Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis</em>
 
-<!-- <a href="" target="_blank">[paper]</a> -->
-[paper]
+<a href="" target="https://www.aclweb.org/anthology/2021.wassa-1.19/">[paper]</a>
 
 <details open>
 <summary>Abstract</summary>
-<p align="justify" style="font-size:90%">Zero-shot cross-target generalization is a known problem instance detection, where systems tend to perform poorly when exposed to targets unseen during training. Given that data annotation is expensive and time-consuming, finding ways to leverage abundant unlabeled in-domain data is of great importance.  In this paper, we propose an inexpensive semi-supervised approach to enhance cross-target generalization through synthetically annotated data. We focus on stance detection in the financial domain using a large, recently released corpus of tweets discussing large mergers in the healthcare sector, which we enrich which a new set of expert-annotated tweets. We show experimentally that integrating synthetic data is helpful for cross-target generalization, leading to significant improvements in performance when the testing domain differs from the training domain, with gains in F1 scores ranging from +3.4 to +5.1.</p>
+<p align="justify" style="font-size:90%">Cross-target generalization is a known problem in stance detection (SD), where systems tend to perform poorly when exposed to targets unseen during training. Given that data annotation is expensive and time-consuming, finding ways to leverage abundant unlabeled in-domain data can offer great benefits. In this paper, we apply a weakly supervised framework to enhance cross-target generalization through synthetically annotated data. We focus on Twitter SD and show experimentally that integrating synthetic data is helpful for cross-target generalization, leading to significant improvements in performance, with gains in F1 scores ranging from +3.4 to +5.1.</p>
 </details>
 
 &nbsp;
+
+<a href="" target="_blank">Adversarial Training for News Stance Detection: Leveraging Signals from a Multi-Genre Corpus.</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Marco Basaldella, Mohammad Taher Pilehvar, Flavio Toxvaerd)
+<em>Proceedings of the EACL Hackashop on News Media Content Analysis and Automated Report Generation</em>
+
+<a href="" target="https://www.aclweb.org/anthology/2021.hackashop-1.1/">[paper]</a>
+
+<details open>
+<summary>Abstract</summary>
+<p align="justify" style="font-size:90%">Cross-target generalization constitutes an important issue for news Stance Detection (SD). In this short paper, we investigate adversarial cross-genre SD, where knowledge from annotated user-generated data is leveraged to improve news SD on targets unseen during training. We implement a BERT-based adversarial network and show experimental performance improvements over a set of strong baselines. Given the abundance of user-generated data, which are considerably less expensive to retrieve and annotate than news articles, this constitutes a promising research direction.</p>
+</details>
+
+&nbsp;
+
+## working papers
 
 <a href="" target="_blank">Learning from Unreliable Sources</a>
 
@@ -72,9 +86,5 @@ I show that agents exhibit a rational confirmation bias, relying predominantly o
 &nbsp;
 
 ## work in progress
-
-A Study on Adversarial Domain Adaptation for Twitter Stance Detection (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)
-
-Persuasion of Different World Views (with Claudia Herresthal)
 
 Information Manipulation and Propagation in Social Networks
