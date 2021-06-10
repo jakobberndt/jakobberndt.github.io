@@ -46,7 +46,7 @@ Our experiments show that {the dataset} poses a strong challenge to recent state
 
 &nbsp;
 
-<a href="https://www.aclweb.org/anthology/2021.hackashop-1.1/" target="_blank">Adversarial Training for News Stance Detection: Leveraging Signals from a Multi-Genre Corpus.</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Marco Basaldella, Mohammad Taher Pilehvar, Flavio Toxvaerd)<br>
+<a href="https://www.aclweb.org/anthology/2021.hackashop-1.1/" target="_blank">Adversarial Training for News Stance Detection: Leveraging Signals from a Multi-Genre Corpus</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Marco Basaldella, Mohammad Taher Pilehvar, Flavio Toxvaerd)<br>
 <em>Proceedings of the EACL Hackashop on News Media Content Analysis and Automated Report Generation</em>
 
 <a href="https://www.aclweb.org/anthology/2021.hackashop-1.1/" target="_blank">[paper]</a> &nbsp;
@@ -58,6 +58,19 @@ Our experiments show that {the dataset} poses a strong challenge to recent state
 </details>
 
 &nbsp;
+<!--
+<a href="" target="_blank">Incorporating Stock Market Signals for Twitter Stance Detection</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)<br>
+<em>Submitted</em>
+
+<a href="" target="_blank">[paper]</a> &nbsp;
+<a href="" target="_blank">[poster]</a>
+
+<details open>
+<summary>Abstract</summary>
+<p align="justify" style="font-size:90%">Research in Stance Detection (SD) has so far focused on models which leverage purely textual input. In this short paper, we investigate multi-modal signals for SD in the financial domain: we propose a robust multi-task neural architecture that integrates textual input with high-frequency intra-day stock market data. Moreover, we extend \textsc{wt--wt}, an existing SD dataset of tweets discussing M\&A operations, with the relevant financial signal, and demonstrate experimentally that our SD system benefits from such multi-modal signals.</p>
+</details>
+
+&nbsp; -->
 
 ## working papers
 
