@@ -69,7 +69,7 @@ Our experiments show that {the dataset} poses a strong challenge to recent state
 <summary>Abstract</summary>
 <p align="justify" style="font-size:90%">Research in Stance Detection (SD) has so far focused on models which leverage purely textual input. In this short paper, we investigate multi-modal signals for SD in the financial domain: we propose a robust multi-task neural architecture that integrates textual input with high-frequency intra-day stock market data. Moreover, we extend \textsc{wt--wt}, an existing SD dataset of tweets discussing M\&A operations, with the relevant financial signal, and demonstrate experimentally that our SD system benefits from such multi-modal signals.</p>
 </details>
-
+ 
 &nbsp;
 -->
 
