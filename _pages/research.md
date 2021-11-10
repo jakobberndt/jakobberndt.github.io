@@ -58,7 +58,8 @@ Our experiments show that {the dataset} poses a strong challenge to recent state
 </details>
 
 &nbsp;
-<!--
+
+<!---
 <a href="" target="_blank">Incorporating Stock Market Signals for Twitter Stance Detection</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)<br>
 <em>Submitted</em>
 
