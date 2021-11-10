@@ -96,7 +96,7 @@ I show that agents exhibit a rational confirmation bias, relying predominantly o
 <summary>Abstract</summary>
 <p align="justify" style="font-size:90%">This paper presents a model of a manipulator trying to influence the collective decision of a population of agents. The novelty is to capture Bayesian persuasion followed by information diffusion in a network. Unbiased agents want the collective decision to match an unknown state of the world, while biased agents share the preferences of the manipulator. The manipulator controls the distribution of a signal. Agents communicate at a cheap talk stage. The manipulator faces a trade-off between a higher degree manipulation and higher information diffusion. The optimal degree of manipulation is inversely related to the density of biased agents. </p>
 </details>
---->
+-->
 
 &nbsp;
 
