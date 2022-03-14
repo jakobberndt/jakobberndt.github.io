@@ -6,7 +6,7 @@ permalink: /research/
 ## publications
 
 <a href="https://arxiv.org/abs/2005.00388" target="_blank">Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)<br>
-<em>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</em>
+<em>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)</em>
 
 <a href="https://www.aclweb.org/anthology/2020.acl-main.157/" target="_blank">[paper]</a> <!-- &nbsp; -->
 <!-- <a href="https://arxiv.org/pdf/2005.00388.pdf" target="_blank">[slides]</a> -->
@@ -59,20 +59,19 @@ Our experiments show that {the dataset} poses a strong challenge to recent state
 
 &nbsp;
 
-<!---
 <a href="" target="_blank">Incorporating Stock Market Signals for Twitter Stance Detection</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)<br>
-<em>Submitted</em>
+<em>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)</em>
 
 <a href="" target="_blank">[paper]</a> &nbsp;
-<a href="" target="_blank">[poster]</a>
+<!-- <a href="" target="_blank">[poster]</a> -->
 
 <details open>
 <summary>Abstract</summary>
-<p align="justify" style="font-size:90%">Research in Stance Detection (SD) has so far focused on models which leverage purely textual input. In this short paper, we investigate multi-modal signals for SD in the financial domain: we propose a robust multi-task neural architecture that integrates textual input with high-frequency intra-day stock market data. Moreover, we extend \textsc{wt--wt}, an existing SD dataset of tweets discussing M\&A operations, with the relevant financial signal, and demonstrate experimentally that our SD system benefits from such multi-modal signals.</p>
+<p align="justify" style="font-size:90%"> Research in stance detection has so far focused on models which leverage purely textual input. In this paper, we investigate the integration of textual and financial signals for stance detection in the financial domain. Specifically, we propose a robust multi-task neural architecture that combines textual input with highfrequency intra-day time series from stock market prices. Moreover, we extend WT–WT, an existing stance detection dataset which collects tweets discussing Mergers and Acquisitions operations, with the relevant financial signal. Importantly, the obtained dataset aligns with STANDER, an existing news stance detection dataset, thus resulting in a unique multimodal, multi-genre stance detection resource. We show experimentally and through detailed result analysis that our stance detection system benefits from financial information, and achieves state-of-the-art results on the WT–WT dataset: this demonstrates that the combination of multiple input signals is effective for cross-target stance detection, and opens interesting research directions for future work.</p>
 </details>
  
 &nbsp;
--->
+
 
 ## working papers
 
