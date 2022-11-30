@@ -59,10 +59,10 @@ Our experiments show that {the dataset} poses a strong challenge to recent state
 
 &nbsp;
 
-<a href="" target="_blank">Incorporating Stock Market Signals for Twitter Stance Detection</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)<br>
+<a href="https://aclanthology.org/2022.acl-long.281/" target="_blank">Incorporating Stock Market Signals for Twitter Stance Detection</a> (with Nigel Collier, Costanza Conforti, Chryssi Giannitsarou, Mohammad Taher Pilehvar, Flavio Toxvaerd)<br>
 <em>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)</em>
 
-<a href="" target="_blank">[paper]</a> &nbsp;
+<a href="https://aclanthology.org/2022.acl-long.281/" target="_blank">[paper]</a> &nbsp;
 <!-- <a href="" target="_blank">[poster]</a> -->
 
 <details open>
